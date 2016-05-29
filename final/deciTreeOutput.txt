@@ -1,0 +1,32 @@
+
+C:\Users\Diwan\Documents\Programs>python DecisionTreeID3.py
+                  German-Colony,  Yes
+          Yes,  Location
+                  Mahane-Yehuda,  Yes
+                  City-Center,  Yes
+                  Ein-Karem,  Yes
+                  Talpiot,  No
+ Favorite Beer
+                  Yes,  Yes
+          No,  VIP
+                          High,  No
+                  No,  Occupied
+                                  Expensive,  No
+                          Moderate,  Price
+                                  Normal,  Yes
+                                  Cheap,  Yes
+                                  Loud,  No
+                          Low,  Music
+                                                 Large,  No
+                                          Normal, Size
+                                                 Small,  No
+                                                 Medium,  Yes
+                                  Quiet,  Price
+                                          Cheap,  No
+
+ The Query posed:
+['Size', ' Occupied', ' Price', ' Music', ' Location', ' VIP', ' Favorite Beer']
+['Large', ' Moderate', ' Cheap', ' Loud', ' City-Center', ' No', ' No']
+Yes you will enjoy the night-out!
+
+C:\Users\Diwan\Documents\Programs>
